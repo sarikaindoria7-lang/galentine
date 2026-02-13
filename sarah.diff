@@ -1,0 +1,76 @@
+diff --git a/index.html b/index.html
+--- index.html
++++ index.html
+@@ -218,26 +218,26 @@
+     <section id="memories">
+         <h2 style="margin-bottom: 30px;">Why I love our friendship...</h2>
+         <div class="memory-container">
+             <div class="memory-card">
+-                <span class="emoji">😂</span>
+-                <h3>Chaotic Laughs</h3>
+-                <p>Those temporary characters gave us permanent gossips and laughter.</p>
++                <span class="emoji">🦓</span>
++                <h3>js us being us</h3>
++                <p>Everyone is a little weird deep down, and I love that when we’re together, we feel safe enough to show that side of ourselves.</p>
+             </div>
+             <div class="memory-card">
+-                <span class="emoji">🎀</span>
+-                <h3>Late Night Talks</h3>
+-                <p>Those late night rants and tea spilling sessions that sometimes end up with some deep conversations.</p>
++                <span class="emoji">💗</span>
++                <h3>ma luv</h3>
++                <p>Those .</p>
+             </div>
+             <div class="memory-card">
+-                <span class="emoji">🌸</span>
+-                <h3>My Love</h3>
+-                <p>Nobody can love you as much as I can and you know you've found the one when they can beat me in loving you.</p>
++                <span class="emoji">😝</span>
++                <h3>ch@dbhangda</h3>
++                <p>When we support each other in every single kand we do, halki halki fati bhi rehti hai and honestly, we’re chaos but make it iconic👅.</p>
+             </div>
+             <div class="memory-card">
+-                <span class="emoji">💅</span>
+-                <h3>Always Cheering</h3>
+-                <p>Nobody can do it better than me remember that babygurl.</p>
++                <span class="emoji">😍</span>
++                <h3>our iconic inside jokes</h3>
++                <p>its so freakin fun when we're together,our bond and inside jokes make time feel like it has stopped. ( jai mahakal, sarika giddi bhar sakte hai kya, mai banugi queen, mere dada ji pol. mai hai , kya kha jau, mere kaan me hai jo baali🗣).</p>
+             </div>
+         </div>
+         <a href="#question" class="btn-start" style="margin-top: 40px; background: var(--lavender); color: var(--text-color); text-decoration: none;">One more thing...</a>
+     </section>
+diff --git a/README.md b/README.md
+--- README.md
++++ README.md
+@@ -8,9 +8,9 @@
+     <h3>ma luv</h3>
+     <p>i luv yuh sm, yuh deserve the world bbg and if someone asks me do yuh prefer the moon or the stars? ima say i prefer kanyee🗣 (ofc your eyes bbg 👀 💗)</p>
+ <div class="memory-card">
+     <span class="emoji">😝</span>
+-    <h3>ch@dbhangda</h3>
++    <h3>masti</h3>
+     <p>When we support each other in every single kand we do, halki halki fati bhi rehti hai and honestly, we’re chaos but make it iconic👅</p>
+ <div class="memory-card">
+     <span class="emoji">😍</span>
+     <h3>our iconic inside jokes</h3>
+@@ -29,17 +29,17 @@
+     --cream: #FFF9FB;
+     --text-color: #7A5C61;
+ 
+ ```html
+-<audio id="https://pixabay.com/music/solo-piano-morning-in-the-mountains-relaxing-piano-music-305882/" loop>
++<audio id="" loop>
+     <source src="your-song.mp3" type="mp3">
+ </audio>
+ ```
+ 
+ 
+ ```html
+ <p><strong>When:</strong> Whenever you want divaa</p>
+-<p><strong>Where:</strong> oggopal vatika</p>
++<p><strong>Where:</strong> og gopal vatika</p>
+ ```
+ 
+ 
+ 
